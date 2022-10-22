@@ -1,7 +1,7 @@
 body{
     background-image: url("./overwatch/bg.jpg");
     width: 100%;
-    
+    overflow-x: hidden;
     background-repeat: no-repeat;
 }
 .container .inner {
